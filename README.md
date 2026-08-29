@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![0.382's GitHub stats](https://github-stats-extended.vercel.app/api?username=?username=0382&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
+[![0.382's GitHub stats](https://github-stats-extended.vercel.app/api?username=0382&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=0382&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
